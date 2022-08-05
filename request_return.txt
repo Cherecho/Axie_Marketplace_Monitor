@@ -1,0 +1,143 @@
+{'data': 
+    {'axies': 
+        {'total': 2946, 'results': 
+            [{'id': '6010789', 
+            'image': 'https://assets.axieinfinity.com/axies/6010789/axie/axie-full-transparent.png', 
+            'class': 'Plant', 
+            'name': 'Axie #6010789', 
+            'genes': '0x300000000a0c1330008120c20ca308c2008328cc0c6329060cc330840c8528c2', 
+            'owner': '0x3dc8adfc99acf552066666a5455f29ca25f1161e', 
+            'stage': 4, 
+            'title': '', 
+            'breedCount': 2, 
+            'level': 1, 
+            'parts': 
+                [
+                    {
+                        'id': 'eyes-puppy', 
+                        'name': 'Puppy', 
+                        'class': 'Beast', 
+                        'type': 'Eyes', 
+                        'specialGenes': None, 
+                        'stage': 1, 
+                        'abilities': [], 
+                        '__typename': 'AxiePart'
+                    }, 
+                    {
+                        'id': 'ears-zen', 
+                        'name': 'Zen', 
+                        'class': 'Beast', 
+                        'type': 'Ears', 
+                        'specialGenes': None, 
+                        'stage': 1, 
+                        'abilities': [], 
+                        '__typename': 'AxiePart'
+                    }, 
+                    {
+                        'id': 'back-pumpkin', 
+                        'name': 'Pumpkin', 
+                        'class': 'Plant', 
+                        'type': 'Back', 
+                        'specialGenes': None, 
+                        'stage': 1, 
+                        'abilities': [
+                            {
+                                'id': 'plant-back-12', 
+                                'name': 'October Treat', 
+                                'attack': 0, 
+                                'defense': 110, 
+                                'energy': 1, 
+                                'description': "Draw a card if this Axie's shield doesn't break this round.", 
+                                'backgroundUrl': 'https://cdn.axieinfinity.com/game/cards/base/plant-back-12.png', 
+                                'effectIconUrl': 'https://cdn.axieinfinity.com/game/cards/effect-icons/draw-card.png', 
+                                '__typename': 'AxieCardAbility'
+                            }], 
+                        '__typename': 'AxiePart'
+                    }, 
+                    {
+                        'id': 'mouth-silence-whisper', 
+                        'name': 'Silence Whisper', 
+                        'class': 'Plant', 
+                        'type': 'Mouth', 
+                        'specialGenes': None, 
+                        'stage': 1, 
+                        'abilities': [
+                            {'id': 'plant-mouth-10', 
+                            'name': 'Forest Spirit', 
+                            'attack': 0, 
+                            'defense': 40, 
+                            'energy': 1, 
+                            'description': 'Heal front teammate for 120 HP. If there are no teammates, heal this Axie instead.', 
+                            'backgroundUrl': 'https://cdn.axieinfinity.com/game/cards/base/plant-mouth-10.png', 
+                            'effectIconUrl': 'https://cdn.axieinfinity.com/game/cards/effect-icons/ally-heal.png', 
+                            '__typename': 'AxieCardAbility'
+                            }], 
+                        '__typename': 'AxiePart'
+                    }, 
+                    {
+                        'id': 'horn-rose-bud', 
+                        'name': 'Rose Bud', 
+                        'class': 'Plant', 
+                        'type': 'Horn', 
+                        'specialGenes': None, 
+                        'stage': 1, 
+                        'abilities': [
+                            {'id': 'plant-horn-06', 
+                            'name': 'Healing Aroma', 
+                            'attack': 0, 
+                            'defense': 50, 
+                            'energy': 1, 
+                            'description': 'Heal this Axie for 120 HP.', 
+                            'backgroundUrl': 'https://cdn.axieinfinity.com/game/cards/base/plant-horn-06.png', 
+                            'effectIconUrl': 'https://cdn.axieinfinity.com/game/cards/effect-icons/self-heal.png', 
+                            '__typename': 'AxieCardAbility'
+                            }], 
+                        '__typename': 'AxiePart'
+                    }, 
+                    {
+                        'id': 'tail-yam', 
+                        'name': 'Yam', 'class': 
+                        'Plant', 'type': 'Tail', 
+                        'specialGenes': None, 
+                        'stage': 1, 'abilities': [
+                            {'id': 'plant-tail-08', 
+                            'name': 'Gas Unleash', 
+                            'attack': 20, 'defense': 20, 
+                            'energy': 1, 'description': 
+                            'Apply poison each time this card is used to attack or defend.', 
+                            'backgroundUrl': 'https://cdn.axieinfinity.com/game/cards/base/plant-tail-08.png', 
+                            'effectIconUrl': 'https://cdn.axieinfinity.com/game/cards/effect-icons/poison.png', 
+                            '__typename': 'AxieCardAbility'
+                            }], '__typename': 'AxiePart'
+                    }
+                ], 
+                'stats': 
+                    {
+                        'hp': 55, 
+                        'speed': 33, 
+                        'skill': 31, 
+                        'morale': 45, 
+                        '__typename': 'AxieStats'
+                    }, 
+                'auction': 
+                    {
+                        'startingPrice': '21900000000000000', 
+                        'endingPrice': '21900000000000000', 
+                        'startingTimestamp': '1659708632', 
+                        'endingTimestamp': '1659795032', 
+                        'duration': '86400', 
+                        'timeLeft': '86174', 
+                        'currentPrice': '21900000000000000', 
+                        'currentPriceUSD': '37.579305', 
+                        'suggestedPrice': '21900000000000000', 
+                        'seller': '0x3dc8adfc99acf552066666a5455f29ca25f1161e', 
+                        'listingIndex': 8700819, 
+                        'state': '112542739921170665194325701809896088376878464875386604845701320052065239769534', 
+                        '__typename': 'Auction'
+                    }, 
+                '__typename': 'Axie'
+            }], 
+            '__typename': 'Axies'
+        }
+    }
+}
