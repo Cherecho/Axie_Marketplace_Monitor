@@ -108,7 +108,8 @@
                             'backgroundUrl': 'https://cdn.axieinfinity.com/game/cards/base/plant-tail-08.png', 
                             'effectIconUrl': 'https://cdn.axieinfinity.com/game/cards/effect-icons/poison.png', 
                             '__typename': 'AxieCardAbility'
-                            }], '__typename': 'AxiePart'
+                            }], 
+                            '__typename': 'AxiePart'
                     }
                 ], 
                 'stats': 
