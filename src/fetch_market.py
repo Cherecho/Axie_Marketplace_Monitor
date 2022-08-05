@@ -1,7 +1,7 @@
 import requests
 
 
-def fetch_market():
+def fetch_marketplace():
     """
     Fetch the market data from the given url.
     """
